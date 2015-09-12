@@ -6,3 +6,4 @@ Check out this video for help
 https://www.youtube.com/watch?v=nwXILgQz-SU
 
 ![alt tag](https://github.com/JohnsAndroidStudioTutorials/NewActivityOnButtonClick/blob/master/GitHubReadMeFiles/first.PNG)
+![alt tag](https://github.com/JohnsAndroidStudioTutorials/NewActivityOnButtonClick/blob/master/GitHubReadMeFiles/second.PNG)
