@@ -1,4 +1,4 @@
-package com.sartainstudios.newactivityonbuttonclick;
+package com.example.newactivityonbuttonclick;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
