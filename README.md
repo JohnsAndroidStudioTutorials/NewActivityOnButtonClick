@@ -12,4 +12,7 @@ https://www.youtube.com/watch?v=nwXILgQz-SU
 ![My image](NewActivityOnButtonClick/GitHubReadMeFiles/first.PNG "Test")
 ![My image](JohnsAndroidStudioTutorials.github.com/NewActivityOnButtonClick/GitHubReadMeFiles/first.PNG)
 
+![alt tag](https://github.com/JohnsAndroidStudioTutorials/NewActivityOnButtonClick/blob/master/GitHubReadMeFiles/first.PNG)
+
+https://github.com/JohnsAndroidStudioTutorials/NewActivityOnButtonClick/blob/master/GitHubReadMeFiles/first.PNG
 NewActivityOnButtonClick/GitHubReadMeFiles/first.PNG
